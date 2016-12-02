@@ -9,7 +9,7 @@
     <meta name="description" content="canvas demo watermark">
     <meta name="keywords" content="canvas">
     <!-- inject:css -->
-    <link href="/css/semantic.min.css" rel="stylesheet">
+    <link href="css/semantic.min.css" rel="stylesheet">
     <!-- endinject -->
 </head>
 <body>   
