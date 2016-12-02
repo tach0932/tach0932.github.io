@@ -6,7 +6,7 @@ function init(){
     canvas.width=canvasW=659;
     canvas.height=canvasH=344;
     var image=new Image();
-    image.src='/images/2.jpg';
+    image.src='images/2.jpg';
     image.onload=drawImage;
     function drawImage() {
         ctx.strokeStyle='#000';
